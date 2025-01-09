@@ -1,0 +1,6 @@
+[submodule "breizhsport-auth"]
+	path = breizhsport-auth
+	url = git@github.com:pabios/breizhsport-auth.git
+[submodule "breizhsport-product"]
+	path = breizhsport-product
+	url = git@github.com:pabios/breizhsport-product.git
