@@ -13,7 +13,9 @@ Ensure the following are installed on your machine:
 ## Repository Structure
 
 ```
-BreizhSport-infra/
+BreizhSport-projet/
+├── breizhsport-auth/
+├── breizhsport-product/
 ├── docker-compose.yml
 ├── README.md
 ```
