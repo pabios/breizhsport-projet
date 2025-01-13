@@ -4,3 +4,6 @@
 [submodule "breizhsport-product"]
 	path = breizhsport-product
 	url = git@github.com:pabios/breizhsport-product.git
+[submodule "BreizhSport-frontend"]
+	path = BreizhSport-frontend
+	url = https://github.com/pabios/BreizhSport-frontend.git
